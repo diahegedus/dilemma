@@ -1,0 +1,5 @@
+streamlit
+spotipy
+groq
+qrcode
+Pillow

@@ -1,5 +1,2 @@
 streamlit
-spotipy
-groq
-qrcode
-Pillow
+google-generativeai
